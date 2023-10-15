@@ -1,0 +1,8 @@
+python-decouple
+Flask==2.0.2
+Flask-Cors==3.0.10
+pymongo==3.12.1
+jwt
+python-socketio
+pythondns
+websocket-client

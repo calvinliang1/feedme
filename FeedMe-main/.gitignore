@@ -1,0 +1,5 @@
+/frontend/node_modules
+/frontend/.env
+/backend/server/.env
+/backend/server/db/__pycache__
+/backend/server/routes/__pycache__
